@@ -1,0 +1,20 @@
+define({
+  "name": "Magic Mirror API мобильного приложения",
+  "version": "1.0.0",
+  "description": "Основные методы для работы мобильного приложения Magic Mirror",
+  "title": "Magic Mirror",
+  "url": "http://magicmirror-v2.techmas.ru/app",
+  "sampleUrl": "http://magicmirror-v2.techmas.ru/app",
+  "template": {
+    "withCompare": true,
+    "withGenerator": false
+  },
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2018-03-16T14:08:43.243Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.6"
+  }
+});

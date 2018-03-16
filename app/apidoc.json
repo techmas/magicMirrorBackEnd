@@ -1,0 +1,13 @@
+{
+  "name": "Magic Mirror API мобильного приложения",
+  "title": "Magic Mirror",
+  "version": "1.0.0",
+  "description": "Основные методы для работы мобильного приложения Magic Mirror",
+  "url" : "http://magicmirror-v2.techmas.ru/app",
+  "sampleUrl" : "http://magicmirror-v2.techmas.ru/app",
+  "template" :
+  {
+    "withCompare" : true,
+    "withGenerator" : false   
+  }
+} 
